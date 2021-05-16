@@ -23,14 +23,14 @@ Perfect for texas holdem tournaments or live poker cash games! If you play texas
 
 👉How to set up Poker Hand History Keyboard :
 
-Download and install
-Go to Settings on your device ⚙️
-Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)
-Activate Poker Keyboard by clicking the toggle switch
-Open the app you wish to record the hand in (text message, What's App, etc.)
-Click on the little keyboard icon (bottom right), OR hold space bar
-Toggle default keyboard to Poker Keyboard (English US)
-☝️ ☝️ ☝️ See Screenshots for help, or contact support at whalestacks@gmail.com
+Download and install<br>
+Go to Settings on your device ⚙️ <br>
+Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)<br>
+Activate Poker Keyboard by clicking the toggle switch<br>
+Open the app you wish to record the hand in (text message, What's App, etc.)<br>
+Click on the little keyboard icon (bottom right), OR hold space bar<br>
+Toggle default keyboard to Poker Keyboard (English US)<br>
+☝️ ☝️ ☝️ See Screenshots for help, or contact support at whalestacks@gmail.com<br>
 
 Plugging leaks is essential to improving your poker game !!
 
