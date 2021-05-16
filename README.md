@@ -1,6 +1,6 @@
 # poker-hand-history-keyboard
 
-Landing Page: https://whalestacks.github.io/poker-hand-history-keyboard
+Landing Page: https://whalestacks.github.io/poker-hand-history-keyboard<br>
 Privacy Policy:https://whalestacks.github.io/poker-hand-history-keyboard/privacy
 
 ♠️ The Original Poker Keyboard for Android! ⌨️
@@ -17,7 +17,7 @@ Live Poker Players do not have the option to use poker hand tracking software li
 
 Use it for:
 
-📲 Texting hand histories to your poker study group ✍️ Keeping detailed notes on poker villains 📈 Hand analysis game theory for poker coaching 💰 Studying helps you win at poker!
+📲 Texting hand histories to your poker study group <br> ✍️ Keeping detailed notes on poker villains<br> 📈 Hand analysis game theory for poker coaching<br> 💰 Studying helps you win at poker!
 
 Perfect for texas holdem tournaments or live poker cash games! If you play texas holdem poker for money, you need this poker keyboard for Android. One of the best poker study tools for mobile!
 
