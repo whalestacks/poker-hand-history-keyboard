@@ -1,3 +1,10 @@
+/*
+Theme Name: Line
+Author URI: http://webthemez.com/
+Description: This theme is a best responsive web template. It would be great for a corporate websites, business websites, personal blog.
+License: Free to use for personal and commercial, but you need to place back link in the bottom of the template.
+*/
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
@@ -180,6 +187,7 @@ top: 0;
 z-index: 10;
 text-align: left;
 }
+
 #menuToggle{
 position: absolute;
 left: -47px;
@@ -219,7 +227,7 @@ line-height: 38px;
 text-transform: uppercase;
 }
 .menuLinks li a:hover{
-color:#888;
+color:#BE6969;
 }
 
 /* Header
@@ -277,12 +285,13 @@ color:#888;
 	background: #6D508D;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #fff;
+	color: #fff !important;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
 	background: #fff;
 }
 .navbar-toggle {
+	color: #BE6969;
 }
 .hero-text {
 	color: #676e73;
@@ -362,7 +371,7 @@ color:#888;
 	margin: 8px 0 0 0;
 }
 .logo:hover {
-	color: #5A5A5A;
+	color: #BE6969;
 }
 .header .navbar {
 	margin: 0;
@@ -389,7 +398,7 @@ color:#888;
 .navbar-inverse .navbar-nav > .active {
 }
 .navbar-nav > li:hover > a {
-	color: #fff;
+	color: #fff !important;
 }
 .header .navbar-nav > li > a {
 	padding: 25px 18px;
