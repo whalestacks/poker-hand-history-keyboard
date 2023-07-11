@@ -1,6 +1,6 @@
 App name: Poker Hand History Keyboard
-Built with: Android Studio
-System: Android [target API: 30(Android 11.0); min API: 21(Lollipop 5.0)
+Built with: Android Studio, Xcode / Java, Swift
+System: Android [target API: 30(Android 11.0); min API: 21(Lollipop 5.0) / iOS target api 14.7
 Original Release Date: July 25, 2019 by Jeremiah Moore 
 
 Landing Page: https://jeremiahdmoore.github.io/poker-hand-history-keyboard/index.html
@@ -21,6 +21,7 @@ Perfect for texas holdem tournaments or live poker cash games! If you play texas
 
 👉How to set up Keyboard :
 
+Android:
 Download and install the app
 Go to Settings on your device ⚙️
 Navigate to System --> Language and input --> Keyboards (or search 'keyboard' in Settings search bar)
@@ -29,6 +30,13 @@ Open the app you wish to record the hand in (text message, What's App, etc.)
 Click on the little keyboard icon (bottom right)
 Toggle default keyboard to Poker Keyboard (English US)
 See Screenshots for help with this ☝️
+
+iOS:
+Go to SETTINGS > GENERAL > KEYBOARD 
+Tap Add New Keyboard
+Select Poker Hand History Keyboard
+Grant full access to enable all features
+Open any text input app and tap the globe icon to switch keyboards
 
 Plugging leaks is essential to improving your poker game !!
 
